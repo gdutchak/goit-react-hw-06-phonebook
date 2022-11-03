@@ -1,4 +1,4 @@
-import { Input, Label } from 'components/AddContacts/AddContact.styled';
+import { Input, Label } from 'components/FormContacts/FormContact.styled';
 import { useDispatch, useSelector } from "react-redux";
 import { addFilter } from "redux/store";
 
